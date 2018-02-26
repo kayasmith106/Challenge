@@ -1,0 +1,1 @@
+C:\Users\k.smith\AppData\Local\Continuum\anaconda2\envs\tensorflow
